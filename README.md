@@ -86,7 +86,7 @@
 
 ## 🔥 Fun Extras
 - **Blog:** Coming Soon! Stay tuned for insights on AI, ML, and tech trends.
-- **Coding Challenges:** I enjoy solving algorithmic problems—check out my [LeetCode profile](#) for more.
+- **Coding Challenges:** I enjoy solving algorithmic problems—check out my [LeetCode profile](https://leetcode.com/u/namanjoshi09746/) for more.
 - **Open Source:** I actively contribute to open source. Feel free to explore my repositories and suggest improvements!
 
 ---
