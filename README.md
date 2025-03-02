@@ -50,10 +50,10 @@
 
 ## 📂 Projects
 <!-- Update with your real projects or add new ones as you complete them -->
-#### 🔹 **Project 1: [Project Name]**
+#### 🔹 **Project 1: Sentimental-Analysis(Tweets)**
 - **Description:** _Brief description about what the project does._
-- **Tech Stack:** _e.g., Python, TensorFlow, SQL_
-- **Repository:** [GitHub Link](#)
+- **Tech Stack:** Python, TensorFlow
+- **Repository:** https://github.com/Naman09746/NLP/blob/main/Sentiment_Analysis_using_tweets.ipynb(#)
 
 #### 🔹 **Project 2: [Project Name]**
 - **Description:** _Brief description about what the project does._
