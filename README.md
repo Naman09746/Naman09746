@@ -51,7 +51,14 @@
 ## 📂 Projects
 <!-- Update with your real projects or add new ones as you complete them -->
 #### 🔹 **Project 1: Sentimental-Analysis(Tweets)**
-- **Description:** _Brief description about what the project does._
+- **Description:** This project focuses on sentiment analysis of tweets from the Sentiment140 dataset, which contains 1.6 million labeled tweets (positive and negative). The task is to classify tweets as positive (1) or negative (0) using a Logistic Regression model.
+
+Key Steps:
+Data Preprocessing: Clean and format the data, apply stemming, and remove stopwords.
+Text Vectorization: Convert tweet text to numerical vectors using TF-IDF.
+Model Training: Train the model on 80% of the data and evaluate on the remaining 20%.
+Model Evaluation: Achieve 80.95% accuracy on training and 77.81% on testing.
+Model Saving: Save the trained model for future predictions.
 - **Tech Stack:** Python, TensorFlow
 - **Repository:** https://github.com/Naman09746/NLP/blob/main/Sentiment_Analysis_using_tweets.ipynb
 
