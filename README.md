@@ -91,7 +91,7 @@ Key Steps:
 - Report Generation: Produce structured, plain-text meeting reports via a Streamlit web interface.
 
 - **Tech Stack:** Python, Streamlit, HuggingFace Transformers, OpenAI Whisper, WhisperX, spaCy, PyTorch  
-- **Repository:** https://github.com/your-username/meeting-minutes-summarizer
+- **Repository:** https://github.com/Naman09746/meeting-minutes-summarizer
 ---
 
 ## 📊 GitHub Stats & Activity
