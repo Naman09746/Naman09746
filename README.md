@@ -77,11 +77,21 @@ Key Steps:
 - **Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Ollama, React, Vite, TypeScript, Tailwind CSS
 - **Repository:** https://github.com/Naman09746/memory-augmented-ai-chatbot
 
-#### 🔹 **Project 3: [Project Name]**
-- **Description:** _Brief description about what the project does._
-- **Tech Stack:** _e.g., Python, Scikit-Learn_
-- **Repository:** [GitHub Link](#)
+## Project 3: MeetDigest – Meeting Minutes Summarizer
 
+- **Description:** MeetDigest is an AI-powered meeting minutes summarizer that automatically generates structured meeting reports from text transcripts or audio files. It extracts key information such as participants, action items, deadlines, and important discussion points, producing a clean and downloadable meeting summary.
+
+Key Steps:
+- Input Handling: Support multiple input formats including .txt, .vtt, .srt, and audio files (.mp3, .wav, .m4a, .webm).
+- Audio Transcription: Convert audio to text using OpenAI Whisper (local inference).
+- Transcript Cleaning: Remove timestamps, filler words, and background noise from raw transcripts.
+- Speaker Diarization: Identify and segment speakers using WhisperX (optional).
+- Named Entity Recognition: Extract people, dates, and action items using spaCy.
+- Summarization: Generate concise meeting summaries using Transformer-based models (DistilBART).
+- Report Generation: Produce structured, plain-text meeting reports via a Streamlit web interface.
+
+- **Tech Stack:** Python, Streamlit, HuggingFace Transformers, OpenAI Whisper, WhisperX, spaCy, PyTorch  
+- **Repository:** https://github.com/your-username/meeting-minutes-summarizer
 ---
 
 ## 📊 GitHub Stats & Activity
