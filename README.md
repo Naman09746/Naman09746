@@ -62,10 +62,20 @@ Model Saving: Save the trained model for future predictions.
 - **Tech Stack:** Python, TensorFlow
 - **Repository:** https://github.com/Naman09746/NLP/blob/main/Sentiment_Analysis_using_tweets.ipynb
 
-#### 🔹 **Project 2: [Project Name]**
-- **Description:** _Brief description about what the project does._
-- **Tech Stack:** _e.g., Java, PyTorch_
-- **Repository:** [GitHub Link](#)
+## Project 2: Memory-Augmented AI Chatbot
+
+- **Description:** This project is a full-stack, memory-augmented AI chatbot that runs completely locally with no paid APIs. It uses a local LLM via Ollama and supports both short-term conversational context and long-term memory using vector embeddings, closely resembling a production-grade AI SaaS system.
+
+Key Steps:
+- Local LLM Integration: Run local language models (phi3, mistral) using Ollama.
+- Memory System: Implement short-term chat history and long-term vector memory using FAISS.
+- Embedding Generation: Convert text data into embeddings using Sentence Transformers.
+- Backend Development: Build a scalable and modular backend using FastAPI.
+- Frontend Development: Create a modern SaaS-style interface using React, Vite, TypeScript, and Tailwind CSS.
+- Model Switching: Allow seamless switching between different LLMs without changing core logic.
+
+- **Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Ollama, React, Vite, TypeScript, Tailwind CSS
+- **Repository:** https://github.com/Naman09746/memory-augmented-ai-chatbot
 
 #### 🔹 **Project 3: [Project Name]**
 - **Description:** _Brief description about what the project does._
