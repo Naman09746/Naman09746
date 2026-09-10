@@ -1,121 +1,337 @@
-<h1 align="center">Hi there, I'm Naman Joshi! 👋</h1>
-<h3 align="center">AI & ML Enthusiast | BTech CSE (AI & ML) at K.R. Mangalam University (Expected 2027)</h3>
+<h1 align="center">Naman Joshi</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/naman-joshi0313/">
-    <img src="https://img.shields.io/badge/LinkedIn-Naman%20Joshi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
-  </a>
+  <strong>AI / ML + GenAI Engineer</strong>
+</p>
+
+<p align="center">
+  Building intelligent systems across Machine Learning, Generative AI, RAG, AI Agents, and full-stack applications.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/naman-joshi0313/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:namanjoshi09746@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Naman09746">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/namanjoshi09746/">LeetCode</a>
+</p>
+
+---
+
+## About
+
+I'm **Naman Joshi**, a B.Tech CSE (AI & ML) student at **K.R. Mangalam University**, expected to graduate in **2027**.
+
+I'm interested in building practical AI systems rather than isolated model demos — from training and evaluating ML models to developing **LLM applications, retrieval systems, AI agents, and production-oriented full-stack applications**.
+
+Currently exploring deeper into:
+
+* Generative AI & Large Language Models
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Multi-Agent Systems
+* Model evaluation and reliability
+* Machine Learning & Deep Learning
+* Cloud & deployment
+* Data and analytics
+* Full-stack AI applications
+
+I'm open to **internships, collaborative projects, and research opportunities**.
+
+---
+
+## What I Build
+
+```text
+        DATA
+          ↓
+     MACHINE LEARNING
+          ↓
+       LLM / GENAI
+          ↓
+        RAG
+          ↓
+   AGENTS + TOOLS
+          ↓
+     APPLICATION
+          ↓
+      DEPLOYMENT
+```
+
+I enjoy working across the stack required to turn an AI idea into a usable system.
+
+My interests currently sit at the intersection of:
+
+**Machine Learning × Generative AI × Software Engineering**
+
+---
+
+# Selected Projects
+
+## 01 — Self-Exploring AI Systems
+
+### Memory-Augmented AI Chatbot
+
+A locally running, full-stack AI chatbot with both **short-term conversational context** and **long-term semantic memory**.
+
+The system runs without paid APIs and uses a local LLM through Ollama.
+
+### What I built
+
+* Local LLM inference using **Ollama**
+* Short-term conversational memory
+* Long-term vector memory
+* Semantic embeddings using Sentence Transformers
+* Vector search using FAISS
+* Modular FastAPI backend
+* React + TypeScript frontend
+* Seamless switching between local LLMs
+* SaaS-style interface
+
+### Stack
+
+`Python` `FastAPI` `FAISS` `Sentence Transformers` `Ollama` `React` `Vite` `TypeScript` `Tailwind CSS`
+
+**Repository →**
+https://github.com/Naman09746/memory-augmented-ai-chatbot
+
+---
+
+## 02 — MeetDigest
+
+### AI Meeting Minutes Summarizer
+
+An AI-powered meeting intelligence system that converts **text transcripts and audio recordings into structured meeting reports**.
+
+The system extracts useful information such as participants, discussion points, action items and deadlines.
+
+### Pipeline
+
+```text
+Audio / Transcript
+       ↓
+   Transcription
+       ↓
+Transcript Cleaning
+       ↓
+Speaker Diarization
+       ↓
+Entity Extraction
+       ↓
+Summarization
+       ↓
+Structured Report
+```
+
+### What I built
+
+* `.txt`, `.vtt`, `.srt` transcript support
+* `.mp3`, `.wav`, `.m4a`, `.webm` audio support
+* Local transcription with **OpenAI Whisper**
+* Optional speaker diarization with **WhisperX**
+* Named Entity Recognition using **spaCy**
+* Transformer-based summarization
+* Structured meeting reports
+* Streamlit interface
+
+### Stack
+
+`Python` `PyTorch` `Streamlit` `Hugging Face Transformers` `Whisper` `WhisperX` `spaCy`
+
+**Repository →**
+https://github.com/Naman09746/meeting-minutes-summarizer
+
+---
+
+## 03 — NLP / Classical Machine Learning
+
+### Sentiment Analysis on Tweets
+
+A sentiment classification project using the **Sentiment140 dataset containing 1.6 million labeled tweets**.
+
+The project explores the complete NLP pipeline from preprocessing and feature extraction to model training and evaluation.
+
+### Pipeline
+
+```text
+Raw Tweets
+    ↓
+Data Cleaning
+    ↓
+Stopword Removal
+    ↓
+Stemming
+    ↓
+TF-IDF
+    ↓
+Logistic Regression
+    ↓
+Evaluation
+```
+
+### Results
+
+| Metric            |  Score |
+| ----------------- | -----: |
+| Training Accuracy | 80.95% |
+| Testing Accuracy  | 77.81% |
+
+### Stack
+
+`Python` `TensorFlow` `NLP` `TF-IDF` `Logistic Regression`
+
+**Repository →**
+https://github.com/Naman09746/NLP/blob/main/Sentiment_Analysis_using_tweets.ipynb
+
+---
+
+# Technical Stack
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**Machine Learning · Deep Learning · NLP · Model Training · Model Evaluation · Data Processing**
+
+### Generative AI
+
+**LLMs · RAG · Embeddings · Vector Search · Prompt Engineering · LLM Applications · AI Agents**
+
+### AI Infrastructure & Applications
+
+**FastAPI · FAISS · Ollama · Sentence Transformers · Streamlit**
+
+### Programming & Data
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+</p>
+
+### Frontend
+
+**React · Vite · TypeScript · Tailwind CSS**
+
+---
+
+# Current AI Focus
+
+I'm currently going deeper into the systems behind modern AI applications:
+
+```text
+Large Language Models
+        │
+        ├── Prompting
+        ├── Context Engineering
+        ├── Embeddings
+        │
+        └── RAG
+             │
+             ├── Retrieval
+             ├── Vector Search
+             └── Evaluation
+                    │
+                    ↓
+                 AI Agents
+                    │
+             ┌──────┴──────┐
+             ↓             ↓
+           Tools          Memory
+             │
+             ↓
+            MCP
+             │
+       External Systems
+             │
+             ↓
+        AI Applications
+```
+
+Particularly interested in making AI systems **reliable, useful, and deployable**, rather than stopping at a prototype.
+
+---
+
+# Engineering Interests
+
+### Generative AI
+
+LLMs · RAG · Embeddings · Context Engineering · Evaluation
+
+### Agentic AI
+
+AI Agents · Multi-Agent Systems · Tool Calling · Function Calling · MCP · Workflow Orchestration
+
+### Machine Learning
+
+Supervised Learning · Deep Learning · NLP · Model Evaluation · Predictive Systems
+
+### Software Engineering
+
+APIs · Backend Architecture · Databases · Full-Stack Applications · System Design
+
+### Deployment
+
+Cloud Computing · Docker · Production AI Systems
+
+---
+
+# Certifications
+
+* **AWS Solutions Architect**
+* **AWS Cloud Practitioner**
+
+---
+
+# Education
+
+**K.R. Mangalam University**
+
+B.Tech — Computer Science & Engineering
+Specialization: **Artificial Intelligence & Machine Learning**
+Expected Graduation: **2027**
+
+---
+
+# Beyond Code
+
+I'm interested in:
+
+* Solving algorithmic problems
+* Exploring new AI research and engineering techniques
+* Building experimental AI systems
+* Collaborative development
+* Research-oriented projects
+* Open-source software
+
+Languages:
+
+**English · Hindi**
+
+---
+
+# Let's Connect
+
+If you're working on something interesting in **AI, Machine Learning, Generative AI, or intelligent software systems**, I'd be happy to connect.
+
+<p align="center">
   <a href="mailto:namanjoshi09746@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email Badge" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/naman-joshi0313/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/Naman09746">
-    <img src="https://img.shields.io/badge/GitHub-Naman09746-black?style=for-the-badge&logo=github" alt="GitHub Badge" />
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-111827?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
----
-
-## 🚀 About Me
-- 🎓 **Student:** Pursuing BTech in CSE (AI & ML) at **K.R. Mangalam University** (Expected Graduation: 2027)
-- 🎯 **Specialization:** Artificial Intelligence & Machine Learning
-- 🌱 **Learning:** Advanced ML techniques, Cloud Computing, and Data Analytics
-- 🏆 **Certifications:** AWS Solution Architect | AWS Practitioner
-- 💬 **Ask Me About:** AI, ML, Data Science, and Innovative Projects
-- 🤝 **Open to:** Internship opportunities, collaborative projects, and research initiatives
-- ⚡ **Languages:** English, Hindi
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-</p>
-
-### Databases
-<p>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-### Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-</p>
-
----
-
-## 📂 Projects
-<!-- Update with your real projects or add new ones as you complete them -->
-#### 🔹 **Project 1: Sentimental-Analysis(Tweets)**
-- **Description:** This project focuses on sentiment analysis of tweets from the Sentiment140 dataset, which contains 1.6 million labeled tweets (positive and negative). The task is to classify tweets as positive (1) or negative (0) using a Logistic Regression model.
-
-Key Steps:
-Data Preprocessing: Clean and format the data, apply stemming, and remove stopwords.
-Text Vectorization: Convert tweet text to numerical vectors using TF-IDF.
-Model Training: Train the model on 80% of the data and evaluate on the remaining 20%.
-Model Evaluation: Achieve 80.95% accuracy on training and 77.81% on testing.
-Model Saving: Save the trained model for future predictions.
-- **Tech Stack:** Python, TensorFlow
-- **Repository:** https://github.com/Naman09746/NLP/blob/main/Sentiment_Analysis_using_tweets.ipynb
-
-## Project 2: Memory-Augmented AI Chatbot
-
-- **Description:** This project is a full-stack, memory-augmented AI chatbot that runs completely locally with no paid APIs. It uses a local LLM via Ollama and supports both short-term conversational context and long-term memory using vector embeddings, closely resembling a production-grade AI SaaS system.
-
-Key Steps:
-- Local LLM Integration: Run local language models (phi3, mistral) using Ollama.
-- Memory System: Implement short-term chat history and long-term vector memory using FAISS.
-- Embedding Generation: Convert text data into embeddings using Sentence Transformers.
-- Backend Development: Build a scalable and modular backend using FastAPI.
-- Frontend Development: Create a modern SaaS-style interface using React, Vite, TypeScript, and Tailwind CSS.
-- Model Switching: Allow seamless switching between different LLMs without changing core logic.
-
-- **Tech Stack:** Python, FastAPI, FAISS, Sentence Transformers, Ollama, React, Vite, TypeScript, Tailwind CSS
-- **Repository:** https://github.com/Naman09746/memory-augmented-ai-chatbot
-
-## Project 3: MeetDigest – Meeting Minutes Summarizer
-
-- **Description:** MeetDigest is an AI-powered meeting minutes summarizer that automatically generates structured meeting reports from text transcripts or audio files. It extracts key information such as participants, action items, deadlines, and important discussion points, producing a clean and downloadable meeting summary.
-
-Key Steps:
-- Input Handling: Support multiple input formats including .txt, .vtt, .srt, and audio files (.mp3, .wav, .m4a, .webm).
-- Audio Transcription: Convert audio to text using OpenAI Whisper (local inference).
-- Transcript Cleaning: Remove timestamps, filler words, and background noise from raw transcripts.
-- Speaker Diarization: Identify and segment speakers using WhisperX (optional).
-- Named Entity Recognition: Extract people, dates, and action items using spaCy.
-- Summarization: Generate concise meeting summaries using Transformer-based models (DistilBART).
-- Report Generation: Produce structured, plain-text meeting reports via a Streamlit web interface.
-
-- **Tech Stack:** Python, Streamlit, HuggingFace Transformers, OpenAI Whisper, WhisperX, spaCy, PyTorch  
-- **Repository:** https://github.com/Naman09746/meeting-minutes-summarizer
----
-
-## 📊 GitHub Stats & Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naman09746&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naman09746&theme=tokyonight" alt="GitHub Streak" />
+  <i>Building systems. Learning continuously. Turning ideas into working AI.</i>
 </p>
-
----
-
-## 🤝 Let's Connect!
-- **Email:** [namanjoshi09746@gmail.com](mailto:namanjoshi09746@gmail.com)
-- **LinkedIn:** [linkedin.com/in/naman-joshi0313](https://www.linkedin.com/in/naman-joshi0313/)
-- **GitHub:** [github.com/Naman09746](https://github.com/Naman09746)
-
-> *"I'm excited to collaborate on innovative projects and contribute to the AI & ML community. Let's build something amazing together!"*
-
----
-
-## 🔥 Fun Extras
-- **Blog:** Coming Soon! Stay tuned for insights on AI, ML, and tech trends.
-- **Coding Challenges:** I enjoy solving algorithmic problems—check out my [LeetCode profile](https://leetcode.com/u/namanjoshi09746/) for more.
-- **Open Source:** I actively contribute to open source. Feel free to explore my repositories and suggest improvements!
-
----
-
-*Thank you for visiting my profile. Let's create, innovate, and inspire together!*  
